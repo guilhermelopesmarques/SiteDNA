@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#pagina-home{
+    height: 100vh;
+    background: linear-gradient(rgba(168, 159, 76, 0), rgb(145, 140, 102)) , url(../imagens/fundo.jpg);
+}
